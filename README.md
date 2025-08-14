@@ -40,6 +40,7 @@ sudo python3 packet_sniffer.py
 The script prints captured packet details in real-time, for example:
 
 [2025-08-14 16:20:15.123] TCP Packet: 192.168.1.10:52345 -> 93.184.216.34:80 | Length: 60 bytes | Payload (hex): 474554202f20685454502f312e310d0a486f73743a20777777
+
 [2025-08-14 16:20:16.456] ICMP Packet: 192.168.1.10 -> 8.8.8.8 Type: 8 | Length: 84 bytes | Payload (hex): 08007c4f1c3b000145676f6d657472696320
 
 ## Ethical Use
